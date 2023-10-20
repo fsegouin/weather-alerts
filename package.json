@@ -1,0 +1,11 @@
+{
+  "name": "weather-alerts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Florent Segouin <florent@segouin.me>",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "node-telegram-bot-api": "^0.63.0"
+  }
+}
